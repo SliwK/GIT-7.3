@@ -11,12 +11,12 @@ body {
   font-family: 'Gloria Hallelujah', cursive;
   .container {
       background-color: #973252;
-      display: flex;
   }
   h1 {
       background-color: #1f000a;
+      display: flex;
+      justify-content: center;
   }
-
   h2 {
       background-color: #5b0c25;
   }
