@@ -6,7 +6,10 @@ body {
   color: white;
   font-family: 'Gloria Hallelujah', cursive; }
   body .container {
-    background-color: #973252; }
+    background-color: #973252;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; }
   body h1 {
     background-color: #1f000a; }
   body h2 {
